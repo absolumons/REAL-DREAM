@@ -1,6 +1,4 @@
-# FiveM-Arkadia_
 
-French FiveM Server Edited by ikNox#6088
 
 **Changer le mot de passe de connexion/Change the login password :**
 
